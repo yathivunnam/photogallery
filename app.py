@@ -28,7 +28,7 @@ def getPhotoDetails(photo_id):
     photo={}
     photo['PhotoID'] = photo_id
     photo['CreationTime'] = "April 30, 2022"
-    photo['Title'] = "red"
+    photo['Title'] = "rd"
     photo['Description'] = "Yellow bird sitting on a tree"
     photo['Tags'] = "bird,tree,nature,forest"
     photo['URL'] = "/media/bird.jpg" 
